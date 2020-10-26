@@ -1,3 +1,5 @@
+################  exploration of phase transition in classical 2D Ising model via machine learning  ##########################
+
 1. Generate Ising configuration by running MC_2DIsing_model_v1.ipynb.
 
 2. Two categories of output are produced: (i) MC_2DIsing.txt and (ii) numbered directories in data/, e.g., data/0.1/, data/0.2/, data/0.3/, ..., where the number signifies 'temperature' at which the *.dat files were generated.
